@@ -1,0 +1,15 @@
+- group: 好友
+  description:  好友
+  items:
+    - title: 111
+      avatar: https://avatars.githubusercontent.com/u/7843281?s=40&v=4 # 头像
+      url: https://mp.weixin.qq.com/s?__biz=MzI1NDczNTAwMA==&mid=2247492154&idx=1&sn=e3c315d58f8a216984a1fc5e0b85712f&scene=21#wechat_redirect # 链接
+      screenshot: https://mmbiz.qpic.cn/mmbiz_png/mngWTkJEOYISVSnrtEeZzxzcRsUicvDTldLJAtSiak0kbS7e5zB3IcsIEXWbefwIxTgCrZddsKcHlzptRa9eQRcg/640?wx_fmt=png&tp=webp&wxfrom=5&wx_lazy=1&wx_co=1 # 截图
+      keywords: # 关键词
+      description: # 描述
+    - title: # 名称
+      avatar: # 头像
+      url: # 链接
+      screenshot: # 截图
+      keywords: # 关键词
+      description: # 描述
